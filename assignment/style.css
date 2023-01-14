@@ -1,13 +1,41 @@
 body {
     background-color: rgb(159, 159, 159);  
     background-image: url('record.png'); 
+    text-align: center;
+    background-repeat: repeat;
+    margin:0%; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+
+}
+h1 {
+    text-align: center;
+    background-color:hotpink;
+    color: chartreuse;
+    border-color: hotpink;
+    border-bottom-color: hotpink;
+    border-radius: 2cm;
+
+}
+h2 {
+    text-align: center;
+    background-color: hotpink;
+    color: chartreuse;
+    border-radius: 2cm;
+    border-color: hotpink;
+    border-bottom-color: hotpink;
+
 }
 title {
-    text-align: center;
-    background-color: darkorchid;
-    background-repeat: repeat;
+    background-color: hotpink;
     
 
 }
+main {
+    text-align: left;
+    background-color: lightslategray;
+    padding: 1em;
 
 
+}
